@@ -1,3 +1,1 @@
 # foodmap
-
-Development mode
